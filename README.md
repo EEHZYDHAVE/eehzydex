@@ -1,2 +1,2 @@
 # eehzydex
-Working with Python basics for Data Sciencw
+Working with Python basics for Data Science
